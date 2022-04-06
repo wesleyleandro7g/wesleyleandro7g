@@ -24,7 +24,7 @@ CTO @Desencoder
   ##
   <h4>Activity</h4>
   <div>
-    <a href="https://www.instagram.com/weslley_leandro_/" >
+    <a href="https://www.instagram.com/wesleyleandro7g/" >
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyleandro7g&show_icons=true&theme=dark" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyleandro7g&layout=compact&theme=dark" />
   </div>
