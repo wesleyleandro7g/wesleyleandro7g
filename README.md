@@ -13,7 +13,7 @@ CTO @Desencoder
   <a href="https://www.instagram.com/wesleyleandro7g/">
     <img height="25px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/instagram.svg" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5538988093869&text=Ol%C3%A1%20L%C3%A9o%2C%20gostaria%20de%20conversar%20com%20voc%C3%AA!">
+  <a href="https://api.whatsapp.com/send?phone=5538999932655&text=Fala%20Wesley!%20Vim%20pelo%20seu%20perfil%20do%20Github.">
     <img height="25px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" />
   </a>
 </div>
