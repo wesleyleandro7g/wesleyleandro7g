@@ -30,9 +30,9 @@ Currently, I develop high-impact features for a global investment platform at **
 
 ## 🏆 Professional Highlights
 
-* [cite_start]**Penzack:** Optimized application performance and system stability for a global fintech platform[cite: 18].
-* [cite_start]**Elint Tech:** Migrated large-scale projects to Next.js and built data visualization dashboards for major clients like Lacta and Universal Music[cite: 27, 28].
-* [cite_start]**Desencoder:** Designed secure fintech solutions ensuring safe monetary transactions for thousands of daily users[cite: 34].
+* **Penzack:** Optimized application performance and system stability for a global fintech platform.
+* **Elint Tech:** Migrated large-scale projects to Next.js and built data visualization dashboards for major clients like Lacta and Universal Music.
+* **Desencoder:** Designed secure fintech solutions ensuring safe monetary transactions for thousands of daily users.
 
 ## 📫 Let's Connect?
 
