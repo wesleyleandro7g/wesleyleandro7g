@@ -1,52 +1,43 @@
-# Wesley Leandro
+# Hello, I'm Wesley! 👋
 
-CTO @Desencoder
+I'm a **Senior Software Engineer** with over **8 years of experience** in building scalable, high-performance web applications. My expertise lies in the **React**, **Next.js** and **Node.js** ecosystem, combining technical excellence with a business-oriented mindset.
 
-<div>
-  <p>Using the most modern technologies on the market to turn ideas into reality.</p>
-</div>
+Currently, I develop high-impact features for a global investment platform at **AZX**, serving over 1 million users.
 
-<div>
-  <a href="https://www.linkedin.com/in/wesleyleandro/">
-    <img height="25px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/wesleyleandro7g/">
-    <img height="25px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/instagram.svg" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5538999932655&text=Fala%20Wesley!%20Vim%20pelo%20seu%20perfil%20do%20Github.">
-    <img height="25px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" />
-  </a>
-</div>
+## 🚀 About Me
 
-<details>
-  <summary><b><u>Click here to know more about me</u></b></summary>
-  
-  ##
-  <h4>Activity</h4>
-  <div>
-    <a href="https://www.instagram.com/wesleyleandro7g/" >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyleandro7g&show_icons=true&theme=dark" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyleandro7g&layout=compact&theme=dark" />
-  </div>
+* 💼 **Experience:** Experience in technical leadership, legacy system migration, and performance optimization.
+* 🌍 **Collaboration:** Solid experience working with international cross-functional teams.
+* 💡 **Philosophy:** I value clean code, robust architectures, and leveraging AI to boost productivity and focus on complex logic.
 
-  <div>
-    <h4>Most used languages and technologies</h4>
-    <h6>Laguages</h6>
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <h6>Frameworks</h6>
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-    <h6>Tools</h6>
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <h6>Others</h6>
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
-  </div>
-</details>
+## 🛠️ Tech Stack
 
+**Frontend & Mobile:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend & Integration:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Tools:**
+`Jest` `Cypress` `AWS` `Figma` `CI/CD` `Git`
+
+## 🏆 Professional Highlights
+
+* [cite_start]**Penzack:** Optimized application performance and system stability for a global fintech platform[cite: 18].
+* [cite_start]**Elint Tech:** Migrated large-scale projects to Next.js and built data visualization dashboards for major clients like Lacta and Universal Music[cite: 27, 28].
+* [cite_start]**Desencoder:** Designed secure fintech solutions ensuring safe monetary transactions for thousands of daily users[cite: 34].
+
+## 📫 Let's Connect?
+
+I am always open to discussing web development, performance, and new technologies.
+
+[![Website](https://img.shields.io/badge/Website-wesleyleandro.com-blue?style=for-the-badge&logo=google-chrome)](https://wesleyleandro.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley_Leandro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wesleyleandro)
+[![Email](https://img.shields.io/badge/Email-support@wesleyleandro.com-c14438?style=for-the-badge&logo=gmail)](mailto:support@wesleyleandro.com)
