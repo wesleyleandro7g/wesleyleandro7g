@@ -40,4 +40,4 @@ I am always open to discussing web development, performance, and new technologie
 
 [![Website](https://img.shields.io/badge/Website-wesleyleandro.com-blue?style=for-the-badge&logo=google-chrome)](https://wesleyleandro.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley_Leandro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wesleyleandro)
-[![Email](https://img.shields.io/badge/Email-support@wesleyleandro.com-c14438?style=for-the-badge&logo=gmail)](mailto:support@wesleyleandro.com)
+[![Email](https://img.shields.io/badge/Email-hi@wesleyleandro.com-c14438?style=for-the-badge&logo=gmail)](mailto:hi@wesleyleandro.com)
